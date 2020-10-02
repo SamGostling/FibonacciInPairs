@@ -8,3 +8,7 @@ For Example:
 - Add the right side to left once and you get 4,3
 - Add the left side to right once and you get 4,7
 - This took a total of 4 additions to reach the required number
+
+There are combinations which are impossible to reach such as 21,7
+
+For these impossible combinations the program returns "impossible"
